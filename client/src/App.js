@@ -1,15 +1,16 @@
 import React, { useState, useEffect } from 'react';
 import { Container, AppBar, Typography, Grow, Grid } from '@material-ui/core';
-import { useDispatch } from 'react-redux';
+import { useDispatch } from 'react-redux'; // Hook to dispatch Redux actions
+
 
 import Posts from './components/Posts/Posts';
 import Form from './components/Form/Form';
 import { getPosts } from './actions/posts';
-import useStyles from './styles';
+import useStyles from './styles'; // Custom styles for the components
 import memories from './images/memories.png';
 
 const App = () => {
-  const [currentId, setCurrentId] = useState(0);
+  const [currentId, setCurrentId] = useState(0); // State to track the ID of the currently selected post
   const dispatch = useDispatch();
   const classes = useStyles();
 
