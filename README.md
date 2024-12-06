@@ -2,9 +2,9 @@
 A Full Stack MERN Application for sharing and cherishing life's unforgettable moments.
 
 ## Introduction
-Welcome to *Memories*, a social media platform that allows users to share and preserve their most cherished moments. Built using **React**, **Node.js**, **Express**, and **MongoDB**, this project demonstrates the core concepts of the **MERN stack** and shows how to build a dynamic full-stack application from scratch.
+- Welcome to *Memories*, a social media platform that allows users to share and preserve their most cherished moments. Built using **React**, **Node.js**, **Express**, and **MongoDB**, this project demonstrates the core concepts of the **MERN stack** and shows how to build a dynamic full-stack application from scratch.
 
-This project is based on a video tutorial series and serves as both a learning tool and a functional web application. By building Memories, I have strengthened my understanding of creating interactive, full-stack web applications and gained hands-on experience with MERN technologies.
+- This project is based on a video tutorial series and serves as both a learning tool and a functional web application. By building Memories, I have strengthened my understanding of creating interactive, full-stack web applications and gained hands-on experience with MERN technologies.
 
 ## Table of Contents
 1. [Features](#features)
