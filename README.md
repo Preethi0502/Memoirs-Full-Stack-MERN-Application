@@ -1,4 +1,4 @@
-# Memoirs : Full Stack MERN Application
+# MEMOIRS : FULL-STACK MERN SOCIAL MEDIA APP FOR SHARING LIFE EVENTS
 A Full Stack MERN Application for sharing and cherishing life's unforgettable moments.
 
 ## Introduction
