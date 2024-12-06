@@ -97,10 +97,10 @@ Build status to show the current health of the project.
 
 ## FAQ
 𝐐: 𝐂𝐚𝐧 𝐈 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐭𝐨 𝐭𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭?
-A: Absolutely! Please refer to the Contributing section for guidelines.
+- A: Absolutely! Please refer to the Contributing section for guidelines.
 
 𝐐: 𝐇𝐨𝐰 𝐝𝐨 𝐈 𝐝𝐞𝐩𝐥𝐨𝐲 𝐭𝐡𝐢𝐬 𝐚𝐩𝐩?
-A: You can follow the steps in the Future Scope section for deploying the app to a cloud platform.
+- A: You can follow the steps in the Future Scope section for deploying the app to a cloud platform.
 
 ## Future Updates
 - 𝐔𝐬𝐞𝐫 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐂𝐮𝐬𝐭𝐨𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧: Allow users to set their own profile pictures and bio information.
