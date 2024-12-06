@@ -2,33 +2,39 @@
 A Full Stack MERN Application for sharing and cherishing life's unforgettable moments.
 
 ## Introduction
-Welcome to 𝐌𝐞𝐦𝐨𝐫𝐢𝐞𝐬, a social media platform that allows users to share and preserve their most cherished moments. Built using 𝐑𝐞𝐚𝐜𝐭, 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬, 𝐚𝐧𝐝 𝐌𝐨𝐧𝐠𝐨𝐃𝐁, this project demonstrates the core concepts of the 𝐌𝐄𝐑𝐍 𝐬𝐭𝐚𝐜𝐤 and shows how to build a dynamic full-stack application from scratch.
+Welcome to *Memories*, a social media platform that allows users to share and preserve their most cherished moments. Built using **React**, **Node.js**, **Express**, and **MongoDB**, this project demonstrates the core concepts of the **MERN stack** and shows how to build a dynamic full-stack application from scratch.
 
 This project is based on a video tutorial series and serves as both a learning tool and a functional web application. By building Memories, I have strengthened my understanding of creating interactive, full-stack web applications and gained hands-on experience with MERN technologies.
 
 ## Table of Contents
-Features
-Installation
-Usage
-Technologies Used
-Contributing
-License
-Screenshots
-Future Scope
-Contact
-Acknowledgments
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Technologies Used](#technologies-used)
+5. [Contributing](#contributing)
+6. [Screenshots](#screenshots)
+7. [Future Scope](#future-scope)
+8. [Contact](#contact)
+9. [Acknowledgments](#acknowledgments)
+10. [Badges](#badges)
+11. [Known Issues](#known-issues)
+12. [FAQ](#faq)
+13. [Future Updates](#future-updates)
 
-### Features
-𝗨𝘀𝗲𝗿 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻: Secure login and registration for personalized experiences.
-𝗖𝗥𝗨𝗗 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀: Create, read, update, and delete (CRUD) posts with ease.
-𝗜𝗺𝗮𝗴𝗲 𝗨𝗽𝗹𝗼𝗮𝗱𝘀: Add images to memories for a richer storytelling experience.
-𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝘃𝗲 𝗗𝗲𝘀𝗶𝗴𝗻: Fully optimized for both desktop and mobile interfaces.
-𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐔𝐈: Easy navigation with intuitive design elements.
-𝐒𝐞𝐚𝐫𝐜𝐡 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥𝐢𝐭𝐲: Browse through memories and posts with an efficient search feature.
+## Features
+- **User Authentication**: Secure login and registration for personalized experiences.
+- **CRUD Operations**: Create, read, update, and delete (CRUD) posts with ease.
+- **Image Uploads**: Add images to memories for a richer storytelling experience.
+- **Responsive Design**: Fully optimized for both desktop and mobile interfaces.
+- **Interactive UI**: Easy navigation with intuitive design elements.
+- **Search Functionality**: Browse through memories and posts with an efficient search feature.
 
-### Installation
-𝐏𝐫𝐞𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬
-Node.js (v14 or above) | MongoDB (local or cloud) | NPM
+## Installation
+
+### Prerequisites
+- **Node.js** (v14 or above)
+- **MongoDB** (local or cloud)
+- **NPM**
 
 𝐒𝐭𝐞𝐩𝐬
 𝟏.𝐂𝐥𝐨𝐧𝐞 𝐭𝐡𝐢𝐬 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲: git clone https://github.com/your-username/memories.git  
