@@ -28,20 +28,13 @@ Acknowledgments
 
 ### Installation
 𝐏𝐫𝐞𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬
-Node.js (v14 or above)
-MongoDB (local or cloud)
-NPM
+Node.js (v14 or above) | MongoDB (local or cloud) | NPM
 
 𝐒𝐭𝐞𝐩𝐬
-𝟏.𝐂𝐥𝐨𝐧𝐞 𝐭𝐡𝐢𝐬 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲:
-git clone https://github.com/your-username/memories.git  
-𝟐.𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐞 𝐭𝐨 𝐭𝐡𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐝𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲:
-cd memories  
-𝟑.𝐈𝐧𝐬𝐭𝐚𝐥𝐥 𝐝𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐜𝐢𝐞𝐬 𝐟𝐨𝐫 𝐛𝐨𝐭𝐡 𝐬𝐞𝐫𝐯𝐞𝐫 𝐚𝐧𝐝 𝐜𝐥𝐢𝐞𝐧𝐭:
-cd client && npm install  
-cd ../server && npm install  
-𝟒.𝐒𝐭𝐚𝐫𝐭 𝐭𝐡𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐬𝐞𝐫𝐯𝐞𝐫𝐬:
-npm start  
+𝟏.𝐂𝐥𝐨𝐧𝐞 𝐭𝐡𝐢𝐬 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲: git clone https://github.com/your-username/memories.git  
+𝟐.𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐞 𝐭𝐨 𝐭𝐡𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐝𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲: cd memories  
+𝟑.𝐈𝐧𝐬𝐭𝐚𝐥𝐥 𝐝𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐜𝐢𝐞𝐬 𝐟𝐨𝐫 𝐛𝐨𝐭𝐡 𝐬𝐞𝐫𝐯𝐞𝐫 𝐚𝐧𝐝 𝐜𝐥𝐢𝐞𝐧𝐭: cd client && npm install | cd ../server && npm install  
+𝟒.𝐒𝐭𝐚𝐫𝐭 𝐭𝐡𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐬𝐞𝐫𝐯𝐞𝐫𝐬: npm start  
 
 ### Usage
 Once the app is running:
@@ -64,12 +57,9 @@ Contributions are highly encouraged! If you find any bugs, or have ideas for new
 
 𝐒𝐭𝐞𝐩𝐬 𝐭𝐨 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞:
 𝟏.𝐅𝐨𝐫𝐤 𝐭𝐡𝐞 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲.
-𝟐.𝐂𝐫𝐞𝐚𝐭𝐞 𝐚 𝐧𝐞𝐰 𝐛𝐫𝐚𝐧𝐜𝐡 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐠𝐞𝐬:
-git checkout -b feature-name  
-𝟑.𝐂𝐨𝐦𝐦𝐢𝐭 𝐲𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐠𝐞𝐬:
-git commit -m "Added new feature"  
-𝟒.𝐏𝐮𝐬𝐡 𝐭𝐡𝐞 𝐛𝐫𝐚𝐧𝐜𝐡:
-git push origin feature-name  
+𝟐.𝐂𝐫𝐞𝐚𝐭𝐞 𝐚 𝐧𝐞𝐰 𝐛𝐫𝐚𝐧𝐜𝐡 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐠𝐞𝐬: git checkout -b feature-name  
+𝟑.𝐂𝐨𝐦𝐦𝐢𝐭 𝐲𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐠𝐞𝐬: git commit -m "Added new feature"  
+𝟒.𝐏𝐮𝐬𝐡 𝐭𝐡𝐞 𝐛𝐫𝐚𝐧𝐜𝐡: git push origin feature-name  
 𝟓.𝐒𝐮𝐛𝐦𝐢𝐭 𝐚 𝐩𝐮𝐥𝐥 𝐫𝐞𝐪𝐮𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 𝐚 𝐜𝐥𝐞𝐚𝐫 𝐝𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧 𝐨𝐟 𝐰𝐡𝐚𝐭 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐚𝐝𝐝𝐞𝐝 𝐨𝐫 𝐟𝐢𝐱𝐞𝐝.
 
 ### Screenshots
