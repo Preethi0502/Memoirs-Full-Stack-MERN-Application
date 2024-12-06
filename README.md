@@ -1,4 +1,4 @@
-# Memoirs
+# Memoirs : Full Stack MERN Application
 A Full Stack MERN Application for sharing and cherishing life's unforgettable moments.
 
 ## Introduction
